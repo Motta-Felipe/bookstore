@@ -1,0 +1,31 @@
+<form>
+  <h1>CREATING A NEW BOOK</h1>
+
+  <mat-form-field class="form">
+    <mat-label>Title</mat-label>
+    <input matInput [formControl]="title" required [(ngModel)]="book.title" type="text" name="title"
+      placeholder="Ex. Clean Code" maxlength="100" />
+    <mat-error *ngIf="title.invalid">{{ getMessage("title") }}</mat-error>
+  </mat-form-field>
+
+  <mat-form-field class="form">
+    <mat-label>Author's Name</mat-label>
+    <input matInput [formControl]="name_author" required [(ngModel)]="book.name_author" type="text" name="author_name"
+      placeholder="Ex. Robert Cecil" maxlength="100" />
+    <mat-error *ngIf="name_author.invalid">{{ getMessage("name_author") }}</mat-error>
+  </mat-form-field>
+
+  <mat-form-field class="form">
+    <mat-label>Text</mat-label>
+    <textarea matInput [formControl]="text" required [(ngModel)]="book.text" type="text" name="text"
+      placeholder="The text of the book" maxlength="2000000"></textarea>
+    <mat-error *ngIf="text.invalid">{{ getMessage("text") }}</mat-error>
+  </mat-form-field>
+
+  <div class="buttons">
+    <button [disabled]="getMessage('button')" (click)="create()" class="mat-elevation-z8" mat-stroked-button
+      color="primary">CREATE</button>
+    <button (click)="cancel()" class="mat-elevation-z8" mat-stroked-button color="warn">CANCEL</button>
+  </div>
+
+</form>

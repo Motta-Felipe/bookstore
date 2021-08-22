@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 5cf798ca2ac35658cc8f9df9ca27d291143d7fbb Felipe Motta <flp.motta@hotmail.com> 1629180736 +0200	commit (initial): initial commit
+5cf798ca2ac35658cc8f9df9ca27d291143d7fbb 16ef10ce628ae7587d9d4e23b724ca867ad5e728 Felipe Motta <flp.motta@hotmail.com> 1629209188 +0200	commit: Material Design installed
+16ef10ce628ae7587d9d4e23b724ca867ad5e728 929b18d895aff763256af753bcf1b8ec71163891 Felipe Motta <flp.motta@hotmail.com> 1629215408 +0200	commit: header, foot, nav and home routing implemented
+929b18d895aff763256af753bcf1b8ec71163891 e9f05f66eceb8e4c99fd8d56b1574ec192abd7d0 Felipe Motta <flp.motta@hotmail.com> 1629277964 +0200	commit: Read category implemented
+e9f05f66eceb8e4c99fd8d56b1574ec192abd7d0 f9f123b698ae08dd47951cbc03adbd69540365e2 Felipe Motta <flp.motta@hotmail.com> 1629292935 +0200	commit: Read component adjustment
+f9f123b698ae08dd47951cbc03adbd69540365e2 dc62d5f6b16263b8225952c49ce99df7b71de064 Felipe Motta <flp.motta@hotmail.com> 1629299346 +0200	commit: create method for Category
+dc62d5f6b16263b8225952c49ce99df7b71de064 bec731030752dbcdced1fccec813c4431aabcbc7 Felipe Motta <flp.motta@hotmail.com> 1629299531 +0200	commit: cancel button for create
+bec731030752dbcdced1fccec813c4431aabcbc7 6276eada453d6b1cf1ce1d9619d36532604acf6d Felipe Motta <flp.motta@hotmail.com> 1629299574 +0200	commit (amend): cancel button for create category
+6276eada453d6b1cf1ce1d9619d36532604acf6d 4e1e50b55a616858509691cec4349a270e816634 Felipe Motta <flp.motta@hotmail.com> 1629299589 +0200	commit (merge): Merge remote-tracking branch 'origin/main' into main
+4e1e50b55a616858509691cec4349a270e816634 0d43d492ad47eeafe684177b2fd6a1fee4c8f238 Felipe Motta <flp.motta@hotmail.com> 1629304003 +0200	commit: Delete Category implemented
+0d43d492ad47eeafe684177b2fd6a1fee4c8f238 5134a9673dff3931b1013e4c0ea95963337f97d6 Felipe Motta <flp.motta@hotmail.com> 1629359937 +0200	commit: Update Category implemented
+5134a9673dff3931b1013e4c0ea95963337f97d6 65c1094666dfd91c7ffc0a9c62847b26ff01f996 Felipe Motta <flp.motta@hotmail.com> 1629378826 +0200	commit: All Books by category implemented
+65c1094666dfd91c7ffc0a9c62847b26ff01f996 9c38439600da7eeb61fc70b9b51bbcef065c6024 Felipe Motta <flp.motta@hotmail.com> 1629378846 +0200	commit (amend): All Books by category implemented
+9c38439600da7eeb61fc70b9b51bbcef065c6024 65c1094666dfd91c7ffc0a9c62847b26ff01f996 Felipe Motta <flp.motta@hotmail.com> 1629378850 +0200	undo: commit (amend): All Books by category implemented
+65c1094666dfd91c7ffc0a9c62847b26ff01f996 fd1d948e58c11c4c8495df2cb766301a2cbdcb81 Felipe Motta <flp.motta@hotmail.com> 1629482538 +0200	commit: create book
+fd1d948e58c11c4c8495df2cb766301a2cbdcb81 e375a35111899eb94b3ac0c736d4e2c54f7af530 Felipe Motta <flp.motta@hotmail.com> 1629630298 +0200	commit: create book implemented + pulizia
+e375a35111899eb94b3ac0c736d4e2c54f7af530 d8eed59d4559d76d8a14803b0b73c8e45423799e Felipe Motta <flp.motta@hotmail.com> 1629630650 +0200	commit: create book cancel
+d8eed59d4559d76d8a14803b0b73c8e45423799e aa05614f9c0ad2071ce14bff23bc2745219d60f7 Felipe Motta <flp.motta@hotmail.com> 1629630780 +0200	commit: create book cancel button fixed
+aa05614f9c0ad2071ce14bff23bc2745219d60f7 0298f6e7122014ebba8faae1bbd0c7f3efd40c31 Felipe Motta <flp.motta@hotmail.com> 1629646223 +0200	commit: update book implemented
+0298f6e7122014ebba8faae1bbd0c7f3efd40c31 f3240be5ebee3c61b33064064b9a6d44d845c2d9 Felipe Motta <flp.motta@hotmail.com> 1629649664 +0200	commit: delete book implemented
+f3240be5ebee3c61b33064064b9a6d44d845c2d9 5d51aa66426bddca78de342e4441515ee944c64c Felipe Motta <flp.motta@hotmail.com> 1629651367 +0200	commit: Read Book Implemented
